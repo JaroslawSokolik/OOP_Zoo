@@ -1,6 +1,6 @@
-# Easy example of OOP with inheritance
+# Easy example of Python OOP with inheritance
 
-Project of Zoo life to explain how to create objects as well as inheritance of base class.
+Project of Zoo life to explain object oriented programming as well as inheritance of base class.
 
 
 
