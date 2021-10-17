@@ -21,6 +21,7 @@ first_adult_guest.declare_role()
 
 first_kid_guest = KidGuest("Alan", 11, "Human")
 first_kid_guest.introduce()
+first_kid_guest.amount_of_money_to_spend()
 
 
 
