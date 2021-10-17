@@ -10,3 +10,8 @@ class KidGuest(Mammal):
     def amount_of_money_to_spend(self):
         print("I have " + str(random.randint(0, 100)) + " złoty money to spend")
 
+    def current_activity(self):
+        activity = ["crying", "smiling", "upset", "sleeping"]
+        print("I am " + (random.choice(activity)))
+
+
