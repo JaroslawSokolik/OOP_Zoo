@@ -10,9 +10,4 @@ class Elephant(Mammal):
         print("My spiece is elephant")
 
 
-elephant_joe = Elephant("Joe", 23, "Elephant")
-elephant_joe.introduce()
-elephant_joe.declare_spiece()
-elephant_joe.eat_elephant_specific_food("roots")
-
 
